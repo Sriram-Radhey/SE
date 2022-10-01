@@ -16,4 +16,5 @@
  *MILESTONES:-
     1. Submission of identifiation proof to RTO.
     2. Verification of identification proof to RTO.
-    3. Gneration of licence among two licenses.
+    3. Generation of licence among two licenses.
+    4.Gives the date of expiry.
